@@ -96,7 +96,7 @@ void tabsize_3(int tc = 1)
 				dp[i][j] += (dp[i - 1][j] % MOD + dp[i][j - 1] % MOD) % MOD;
 		}
 	}
-
+ 
 	log(dp[n][n]);
 }
 
