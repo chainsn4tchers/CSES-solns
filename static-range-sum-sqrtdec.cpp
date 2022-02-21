@@ -41,7 +41,7 @@ using namespace std;
 #define yy                 log("YES")
 #define nn                 log("NO")
 
-/* dbg setup by @Livw08: https://codeforces.com/blog/entry/68809 */
+/*                           dbg setup                        */
 void __print(int x) {cerr << x;}
 void __print(long x) {cerr << x;}
 void __print(long long x) {cerr << x;}
