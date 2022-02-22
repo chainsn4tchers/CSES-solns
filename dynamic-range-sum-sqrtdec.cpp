@@ -137,7 +137,6 @@ void tabsize_3(int tc = 1)
 
 	sqrtdec chunks;
 	chunks.build(a);
-
 	while (q--) {
 		get3(c, x, y);
 		if (c == 1) {
