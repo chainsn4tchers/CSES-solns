@@ -1,9 +1,3 @@
-
-CSES
-chainsn4tcherr —
-Shared code
-Link to this code: https://cses.fi/paste/7b59a8eb6c7c6d9e36b3de/
-
 /*-----------------------------------------------------------------------
 ⣿⣿⣿⣿⠛⠛⠉⠄⠁⠄⠄⠉⠛⢿⣧
 ⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣧
